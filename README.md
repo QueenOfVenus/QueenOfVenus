@@ -61,7 +61,7 @@ I don't know anything other than HackerTyper. My aim is not to be Elliot Alderso
 
 ### Bye for now.!
 
-
+![](https://media.giphy.com/media/hcpVSCSwDcKju/giphy.gif)
 <!--
 **QueenOfVenus/QueenOfVenus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
