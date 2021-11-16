@@ -58,6 +58,7 @@ I don't know anything other than HackerTyper. My aim is not to be Elliot Alderso
 #### If you want to follow me
 #### Medium : https://beyzanuraltinok.medium.com/
 #### Linkedin : https://www.linkedin.com/in/beyza-nur-altınok/ 
+#### Art Station : https://www.artstation.com/delicoyun
 
 ### Bye for now.!
 
