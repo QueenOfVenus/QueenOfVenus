@@ -5,19 +5,19 @@
 
 ### Beyza...😆
 
-I am a final year computer engineering student.
+Now, I am a computer engineer! But I've a BIG SOFTWAREPHOBIA. 
 
 This is how I am most of the time when it comes to writing code...
 
 ![](https://media3.giphy.com/media/ZQBH5pvoyiZSE/200.gif)
 
-But let it be.😅 I'm still in development.
+But let it be.😅 I'm still in development. I know one day I will overcome my software phobia. So I guess... 🤔
 
 ## What am I interested in?
 
 (It's a bit confusing there.😵)
 
-Actually, I am currently interested in many fields at the amateur level and I am trying to improve myself. I'm still undecided on what field to specialize in.
+Actually, I am currently interested in many fields at the amateur level and I am trying to improve myself. I'm still undecided on what field to specialize in. I wanna be  life's in everywere. I'm a action woman.
     
   ### 1_)Robotic Coding (Arduino and IoT Technology)
 
