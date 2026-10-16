@@ -1,4 +1,4 @@
-# Hi everybody 👋😉
+# Hi everybody 👋😉 (it is for humor purposes)
 ### Allow me to introduce myself to you.
 
 ![](https://media3.giphy.com/media/tLQSYnrLCGcKY/giphy.gif)
