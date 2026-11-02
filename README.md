@@ -14,9 +14,19 @@ This was me writing code a few years ago... 😅
 Good news: we're on speaking terms now! 🤝 It still plays hard to get sometimes 🙄 but together with Claude, I've learned how to handle its moods. 😏🤖
 
 <img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/00108225-5b58-4fc1-b613-c2370847dab5" />
-![](https://github.com/user-attachments/assets/00108225-5b58-4fc1-b613-c2370847dab5)
-
+<br><br>
 Dude, I'd give anything to be in this guy's shoes... 😁
+
+But let it be.😅 I'm still in development.
+
+
+
+
+
+
+
+
+
 
 
 
