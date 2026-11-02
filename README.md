@@ -137,10 +137,19 @@ Of course, I didn't become a game developer. I became a 3D game artist. And then
 [![ArtStation](https://img.shields.io/badge/ArtStation-Portfolio-13AFF0?style=flat&labelColor=111927&logo=artstation&logoColor=white)](https://www.artstation.com/delicoyun)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat&labelColor=111927&logo=youtube&logoColor=white)](https://www.youtube.com/@delicoyun7487)
 [![itch.io](https://img.shields.io/badge/itch.io-Portfolio-FA5C5C?style=flat&labelColor=111927&logo=itchdotio&logoColor=white)](https://delicoyun.itch.io/)
- 
 <img width="420" height="400" alt="giphy" src="https://github.com/user-attachments/assets/40ded7e3-1e37-4764-8bb5-7907420922b9" />
 
 <br>
+
+### 🤖 Robotic Coding (Arduino & IoT)
+ 
+![](https://i.pinimg.com/originals/0e/5a/c1/0e5ac1538a856ee5b4543d0d2f84767f.gif)
+ 
+Where it all started. Certified training, small projects, and a NodeMCU button I controlled remotely via Blynk. We came to an agreement after all. 🤜🤛
+
+<img width="480" height="204" alt="giphy" src="https://github.com/user-attachments/assets/19ff9200-747b-4702-808c-468147b9e862" />
+
+
  
 ### 🎨 Design
  
@@ -150,9 +159,7 @@ HTML5, CSS and Bootstrap were my first playground. These days, that talent lives
 <p><img src="https://media.giphy.com/media/cg5FwpvDmhIcM/giphy.gif" width="540"></p>
 Still my mood when designing. 😌
  
-### 🧠 Brain-Computer Interfaces
- 
-My secret long-term dream. Neuroscience fascinates me, and one day I'd love to turn thoughts into text. That's all I can say for now. 🤫
+
  
 ---
  
@@ -170,7 +177,7 @@ My secret long-term dream. Neuroscience fascinates me, and one day I'd love to t
  
 ### I had so much fun introducing myself to you (again). Hope you enjoyed meeting me too! 💜
  
-### 📫 Find me
+## 📫 Want to learn more about me? You can always hire me. 😉
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&labelColor=111927&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
 [![Medium](https://img.shields.io/badge/Medium-Read_my_posts-FF2FB9?style=flat&labelColor=111927&logo=medium&logoColor=white)](https://medium.com/@beyzanuraltinok)
