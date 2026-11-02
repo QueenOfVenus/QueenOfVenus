@@ -13,14 +13,86 @@ This was me writing code a few years ago... 😅
 
 Good news: we're on speaking terms now! 🤝 It still plays hard to get sometimes 🙄 but together with Claude, I've learned how to handle its moods. 😏🤖
 
+<br>
+
 <img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/00108225-5b58-4fc1-b613-c2370847dab5" />
-<br><br>
+<img width="480" height="254" alt="giphy" src="https://github.com/user-attachments/assets/1d61eba0-0a6e-4acb-ae92-f6895292760b" />
+
+
+<br>
+
 Dude, I'd give anything to be in this guy's shoes... 😁
 
-But let it be.😅 I'm still in development.
+But let it be.😅 Maybe one day...
 
 
+## 🗺️ So... what am I up to these days?
+ 
+Last time, I said I wanted to be *everywhere* in life. I'm still an action woman. 💥
+But this time, I picked a main quest. 🎯
+ 
+### 🛡️ Main Quest: Cyber Security
+ 
+Remember when I said I knew nothing but HackerTyper and was just watching *Mr. Robot*?
+ 
+![](https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif)
+ 
+Well... the curiosity didn't go away. It grew up. 😎
+My goal is **Purple Team**: Red Team breaks it, Blue Team defends it, and I want to understand both sides. 🔴🔵 = 🟣
+ 
+**What I'm building on the way:**
+ 
+- 🎓 **Thesis:** Credit card fraud detection with a dual system. One side creates fake fraud, the other side tries to catch it. Basically, I made my own models fight each other. 🥊
 
+<img width="480" height="320" alt="giphy" src="https://github.com/user-attachments/assets/6a5a4d4f-f7e3-45ee-b80d-42a47d73762a" />
+<br>
+
+- 🖼️ **Conference paper:** Hiding secret data inside images with LSB and the Fibonacci sequence. Yes, a picture can carry a message. 🤫
+- 🔊 **Bana Canlı Oku** *(Read It to Me, Live)*: An AI-based Chrome extension that reads articles aloud, with real intonation, and without murdering English abbreviations. Built because I hate reading long texts. Honest motivation. 🙃
+---
+ 
+## 🎒 Side Quests (old friends, still around)
+ 
+### 🤖 Robotic Coding (Arduino & IoT)
+ 
+![](https://i.pinimg.com/originals/0e/5a/c1/0e5ac1538a856ee5b4543d0d2f84767f.gif)
+ 
+Where it all started. Certified training, small projects, and a NodeMCU button I controlled remotely via Blynk. We came to an agreement after all. 🤜🤛
+ 
+### 🎨 Web Frontend Design
+ 
+My design talent is still very strong. Very strong. 💅
+HTML5, CSS and Bootstrap were my first playground.
+ 
+![](https://media.giphy.com/media/cg5FwpvDmhIcM/giphy.gif)
+ 
+Still my mood when designing. 😌
+ 
+### 🎮 Game Design
+ 
+Anime, 3D FPS characters and map design still catch my eye. Blender and I are still... negotiating. 🫠
+And yes, I'm still good at computer games. That part never needed practice.
+ 
+![](https://media.giphy.com/media/l0DAI5cmkj0rYbwgo/giphy.gif)
+ 
+---
+ 
+## ✨ Things that haven't changed
+ 
+- 🧐 I'd rather understand *why* something broke than just restart it.
+- 💪 I work hard to make things right.
+- 🚧 I'm still in development. Like all good software.
+---
+ 
+### I had so much fun introducing myself to you (again). Hope you enjoyed meeting me too! 💜
+ 
+#### 📫 Follow me
+#### Medium: [@USERNAME](https://medium.com/@USERNAME)
+#### LinkedIn: [USERNAME](https://linkedin.com/in/USERNAME)
+ 
+### Bye for now! 👋
+ 
+![](https://media.giphy.com/media/hcpVSCSwDcKju/giphy.gif)
 
 
 
