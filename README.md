@@ -14,8 +14,8 @@ This was me writing code a few years ago... 😅
 
 Good news: we're on speaking terms now! 🤝 It still plays hard to get sometimes 🙄 but together with Claude, I've learned how to handle its moods. 😏🤖
 
-![](![Uploading giphy.gif…]()
-)
+![](https://giphy.com/embed/TuM6oxvGcWWmQrm1Vt)
+
 
 Dude, I'd give anything to be in this guy's shoes... 😁
 
