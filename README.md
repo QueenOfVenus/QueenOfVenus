@@ -1,3 +1,4 @@
+<img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/00108225-5b58-4fc1-b613-c2370847dab5" />
 # Hi everybody 👋😉 (it is for humor purposes)
 ### Allow me to introduce myself... again.
 
@@ -13,7 +14,7 @@ This was me writing code a few years ago... 😅
 
 Good news: we're on speaking terms now! 🤝 It still plays hard to get sometimes 🙄 but together with Claude, I've learned how to handle its moods. 😏🤖
 
-![](https://giphy.com/gifs/BostonDynamics-dancing-spot-boston-dynamics-TuM6oxvGcWWmQrm1Vt)
+![]([https://giphy.com/gifs/BostonDynamics-dancing-spot-boston-dynamics-TuM6oxvGcWWmQrm1Vt](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB0cTV2d3N4YzRyaDQ4a2J6emJiMnp1MmUxY2RjdnF0bmt6NHRpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TuM6oxvGcWWmQrm1Vt/giphy.gif))
 
 Dude, I'd give anything to be in this guy's shoes... 😁
 
