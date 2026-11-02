@@ -174,6 +174,8 @@ Still my mood when designing. 😌
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&labelColor=111927&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
 [![Medium](https://img.shields.io/badge/Medium-Read_my_posts-FF2FB9?style=flat&labelColor=111927&logo=medium&logoColor=white)](https://medium.com/@beyzanuraltinok)
+[![Medium](https://img.shields.io/badge/Medium-Read_my_posts-FF2FB9?style=flat&labelColor=111927&logo=medium&logoColor=white)](https://medium.com/@bad_g)
+
  
 ### Bye for now! 👋
  
