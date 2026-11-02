@@ -1,7 +1,8 @@
 # Hi everybody 👋😉 (it is for humor purposes)
 ### Allow me to introduce myself... again.
 
-![](https://media3.giphy.com/media/tLQSYnrLCGcKY/giphy.gif)
+<img width="268" height="200" alt="200" src="https://github.com/user-attachments/assets/d31fab04-705d-40c9-96a3-e3424c006b46" />
+
 
 ### Beyza...😆
 
@@ -9,7 +10,9 @@ A computer engineer, a software engineering master's student at Atatürk Univers
 
 This was me writing code a few years ago... 😅
 
-![](https://media3.giphy.com/media/ZQBH5pvoyiZSE/200.gif)
+<img width="497" height="280" alt="giphy" src="https://github.com/user-attachments/assets/c3d0cca1-8f88-4288-9660-9707a4e50ddf" />
+
+
 
 Good news: we're on speaking terms now! 🤝 It still plays hard to get sometimes 🙄 but together with Claude, I've learned how to handle its moods. 😏🤖
 
@@ -33,7 +36,8 @@ But this time, I picked a main quest. 🎯
  
 Remember when I said I knew nothing but HackerTyper and was just watching *Mr. Robot*?
  
-![](https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif)
+<img width="268" height="300" alt="giphy" src="https://github.com/user-attachments/assets/e7252766-8f7a-49b5-ba88-ada3d97daf4f" />
+
  
 Well... the curiosity didn't go away. It grew up. 😎
 My goal is **Purple Team**: Red Team breaks it, Blue Team defends it, and I want to understand both sides. 🔴🔵 = 🟣
@@ -85,17 +89,29 @@ I'm also trying to figure out Wireshark, but it's a bit complicated... We're sti
 
 - 🖼️ **Conference paper:** Hiding secret data inside images with LSB and the Fibonacci sequence. Yes, a picture can carry a message. 🤫
 - 🔊 **Bana Canlı Oku** *(Read It to Me, Live)*: An AI-based Chrome extension that reads articles aloud, with real intonation, and without murdering English abbreviations. Built because I hate reading long texts. Honest motivation. 🙃
+<img width="360" height="202" alt="giphy" src="https://github.com/user-attachments/assets/2ef6669d-d53a-4e8a-a7b4-db76cff9a6bd" />
+
+
+  
 - 💼 **İşSizsiniz** *(a Turkish pun: read it in one go and it says "You're Unemployed", stress the "Siz" and it says "The Job Is You")*: My neon job-search board, built with Claude. If I have to be unemployed, I'll at least be unemployed in style. 💚🩵💜🩷
   - ☀️ I say "good morning", it scans new job listings and cyber security news for me.
+  <img width="350" height="263" alt="giphy" src="https://github.com/user-attachments/assets/49b909cd-b2c9-4c88-9893-6111e56c1fb2" />
+
   - 📋 Tracks my applications, which CV I sent where, and when to follow up.
   - 🏢 Keeps notes on hundreds of companies, plus a separate tab just for cyber security firms.
   - 🎯 Shows a match score for each new listing, so I know where to apply first.
   - 🌗 Dark and light theme, mobile friendly, and of course a 🔊 **Listen** button. (Old habits.)
   I shared it with my friends too, because job hunting is more fun together. 😅
+<img width="400" height="240" alt="1102" src="https://github.com/user-attachments/assets/dfb03a17-bbe6-4f4b-bd98-645136fa89d2" />
+
+
 - 🗒️ **Neonot**: My neon sticky-note board, also built with Claude. Because regular yellow post-its were never going to be enough for me. 💅
   - 📌 Topics are slightly tilted post-its on a board, and every topic can have sub-topics inside it, as deep as my brain goes.
   - 🎨 Around 80 neon colors in bright, deep and pastel shades, plus a custom color picker. Text color adjusts itself, so every note stays readable.
   - ⭐ Pin the important notes to the top, and they stay there.
+ <img width="556" height="240" alt="neonott" src="https://github.com/user-attachments/assets/ee6984cc-121a-4a7f-bf22-8aa3d981a485" />
+
+ 
 ---
  
 ## 🎒 Side Quests (old friends, still around)
