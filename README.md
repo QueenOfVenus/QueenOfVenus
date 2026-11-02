@@ -46,10 +46,10 @@ My goal is **Purple Team**: Red Team breaks it, Blue Team defends it, and I want
  
 | Platform | What I've done |
 |---|---|
-| 🟩 **Hack The Box** | Level 20 · 🖥️ 1 Machine · 🔍 6 Sherlocks · 🧩 5 Challenges |
+| 🟩 **Hack The Box** | Level 20 · 🖥️ 1 Machine · 🔍 6 Sherlocks · 🧩 5 Challenges<br>[![Starting Point](https://img.shields.io/badge/HTB-Starting_Point_Tier_0-9FEF00?style=flat&labelColor=111927&logo=hackthebox&logoColor=black)](https://labs.hackthebox.com/achievement/badge/88742/117) [![Powering Up](https://img.shields.io/badge/HTB-Powering_Up_%C2%B7_5_Challenges-9FEF00?style=flat&labelColor=111927&logo=hackthebox&logoColor=black)](https://labs.hackthebox.com/achievement/badge/88742/232) [![Investigator](https://img.shields.io/badge/HTB-Investigator_%C2%B7_5_Sherlocks-9FEF00?style=flat&labelColor=111927&logo=hackthebox&logoColor=black)](https://labs.hackthebox.com/achievement/badge/88742/242) |
 | 🟥 **TryHackMe** | I'm obsessed with OSINT CTFs. 🔎 |
-| 🟦 **LetsDefend** | We've only just met, but I'm sure we'll get along great soon. 🤝 |
-| 🏔️ **AltaySec** | Rank: Operator 🚜 · Moving along the training paths · I even have my own CTF clan! ⚔️ |
+| 🟦 **LetsDefend** | We've only just met, but I'm sure we'll get along great soon. 🤝<br>[![Network Cable](https://img.shields.io/badge/LetsDefend-Network_Cable-2A7DE1?style=flat&labelColor=111927)](https://app.letsdefend.io/my-rewards/detail/98d33773-b9d8-4864-92f1-55c4785d17c8) |
+| 🏔️ **AltaySec** | Rank: Operator 🚜 · Moving along the training paths · I even have my own CTF clan! ⚔️<br>[![AltaySec Akademi](https://akademi.altaysec.com.tr/rozet/bad_genious.svg)](https://akademi.altaysec.com.tr/u/bad_genious?ref=bad_genious&utm_source=github&utm_medium=rozet) |
  
 🔴 **Red side:** Machines and Challenges, where I get to break things *legally*. 😈
 🔵 **Blue side:** Sherlocks and SOC scenarios, where I play detective with logs and leftovers. 🕵️‍♀️
@@ -110,6 +110,30 @@ I'm also trying to figure out Wireshark, but it's a bit complicated... We're sti
   - 🎨 Around 80 neon colors in bright, deep and pastel shades, plus a custom color picker. Text color adjusts itself, so every note stays readable.
   - ⭐ Pin the important notes to the top, and they stay there.
  <img width="556" height="240" alt="neonott" src="https://github.com/user-attachments/assets/ee6984cc-121a-4a7f-bf22-8aa3d981a485" />
+
+
+<a href="https://labs.hackthebox.com/achievement/badge/88742/242">
+  <img src="https://labs.hackthebox.com/achievement/badge/preview/88742/242.png" width="350">
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
 ---
