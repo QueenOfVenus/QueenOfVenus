@@ -164,21 +164,8 @@ HTML5, CSS and Bootstrap were my first playground. These days, that talent lives
  
 <p><img src="https://media.giphy.com/media/cg5FwpvDmhIcM/giphy.gif" width="540"></p>
 Still my mood when designing. 😌
- 
 
  
----
- 
-## ✨ Fun facts about me
- 
-- 💥 Still an action woman. Give me the field over a desk any day.
-- 🧯 Calm in a crisis: I figure out what happened first, then act fast.
-- 🧐 I'd rather understand *why* something broke than just restart it.
-- 🎧 I learn better by listening than by reading. (That's how Bana Canlı Oku was born.)
-- 🌸 Miyazaki and lofi anime aesthetics live rent-free in my head. That's where all the neon comes from.
-- 🎨 My hair color changes more often than some people's passwords. 🔐
-- 🌍 Leveling up my English, one CTF at a time.
-- 🚧 Still in development. Like all good software.
 ---
  
 ### I had so much fun introducing myself to you (again). Hope you enjoyed meeting me too! 💜
@@ -192,8 +179,6 @@ Still my mood when designing. 😌
  
 <p><img src="https://media.giphy.com/media/hcpVSCSwDcKju/giphy.gif" width="540"></p>
 
-<br><br><br><br><br><br><br>
----
 
 
 
