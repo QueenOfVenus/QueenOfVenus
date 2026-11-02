@@ -79,6 +79,7 @@ I'm also trying to figure out Wireshark, but it's a bit complicated... We're sti
  
 - Introduction to Cyber Security · *Turkish Cyber Security Cluster*
 - Cyber Security Summer Camp: Penetration Testing · *Turkish Cyber Security Cluster*
+- CyberAnadolu · *Turkish Cyber Security Cluster*
 - Cisco Packet Tracer · *Cisco Networking Academy*
  
 **What I'm building on the way:**
@@ -133,11 +134,16 @@ Yes, like every young gamer, I was once in the gaming world too. Valorant's grap
 
 <br>
 Of course, I didn't become a game developer. I became a 3D game artist. And then I learned Blender... Phew... 🔥 That's how I fell in love with colors. It was beautiful, it gave me butterflies... But every good thing comes to an end. Maybe I'll pick it back up as a hobby years from now, but for now: goodbye, baby. ❤️
- 
+
+<br>
+
+<img width="420" height="400" alt="giphy" src="https://github.com/user-attachments/assets/40ded7e3-1e37-4764-8bb5-7907420922b9" />
+<br>
+
 [![ArtStation](https://img.shields.io/badge/ArtStation-Portfolio-13AFF0?style=flat&labelColor=111927&logo=artstation&logoColor=white)](https://www.artstation.com/delicoyun)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat&labelColor=111927&logo=youtube&logoColor=white)](https://www.youtube.com/@delicoyun7487)
 [![itch.io](https://img.shields.io/badge/itch.io-Portfolio-FA5C5C?style=flat&labelColor=111927&logo=itchdotio&logoColor=white)](https://delicoyun.itch.io/)
-<img width="420" height="400" alt="giphy" src="https://github.com/user-attachments/assets/40ded7e3-1e37-4764-8bb5-7907420922b9" />
+
 
 <br>
 
