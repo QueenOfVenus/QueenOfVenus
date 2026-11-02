@@ -4,7 +4,7 @@
 <img width="536" height="400" alt="200" src="https://github.com/user-attachments/assets/d31fab04-705d-40c9-96a3-e3424c006b46" />
 <br>
 
-### Beyza...😆
+### Beyza...😆 But my friends call me "Dolunay"
 
 A computer engineer, a software engineering master's student at Atatürk University, and (as you might remember) a former sufferer of BIG SOFTWAREPHOBIA.
 
@@ -127,16 +127,84 @@ I'm also trying to figure out Wireshark, but it's a bit complicated... We're sti
 
 
 
+## 🎒 Side Quests (old friends, still around)
+ 
+### 🎮 Game Design (my world before cyber security)
+ 
+Before cyber security, this was the world I wanted to build a career in. Anime worlds, 3D FPS characters, maps and stories, I wanted to create all of it. 🗺️
+Blender and I are still... negotiating. 🫠
+And yes, I'm still good at computer games. That part never needed practice. 🎯
+ 
+<p><img src="https://media.giphy.com/media/l0DAI5cmkj0rYbwgo/giphy.gif" width="540"></p>
+### 🤖 Robotics (Arduino & IoT)
+ 
+Where it all started. Certified training, small projects, and a NodeMCU button I controlled remotely via Blynk. We came to an agreement after all. 🤜🤛
+ 
+<p><img src="BOSTON_DYNAMICS_GIF_LINK" width="540"></p>
+Dude, I'd give anything to have this guy's job... 🕺🤖
+ 
+### 🎨 Design
+ 
+My design talent is still very strong. Very strong. 💅
+HTML5, CSS and Bootstrap were my first playground. These days, that talent lives in neon boards like İşSizsiniz and Neonot. 💚🩷
+ 
+<p><img src="https://media.giphy.com/media/cg5FwpvDmhIcM/giphy.gif" width="540"></p>
+Still my mood when designing. 😌
+ 
+### 🧠 Brain-Computer Interfaces
+ 
+My secret long-term dream. Neuroscience fascinates me, and one day I'd love to turn thoughts into text. That's all I can say for now. 🤫
+ 
+---
+ 
+## ✨ Fun facts about me
+ 
+- 💥 Still an action woman. Give me the field over a desk any day.
+- 🧯 Calm in a crisis: I figure out what happened first, then act fast.
+- 🧐 I'd rather understand *why* something broke than just restart it.
+- 🎧 I learn better by listening than by reading. (That's how Bana Canlı Oku was born.)
+- 🌸 Miyazaki and lofi anime aesthetics live rent-free in my head. That's where all the neon comes from.
+- 🎨 My hair color changes more often than some people's passwords. 🔐
+- 🌍 Leveling up my English, one CTF at a time.
+- 🚧 Still in development. Like all good software.
+---
+ 
+### I had so much fun introducing myself to you (again). Hope you enjoyed meeting me too! 💜
+ 
+### 📫 Find me
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&labelColor=111927&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
+[![Medium](https://img.shields.io/badge/Medium-Read_my_posts-FF2FB9?style=flat&labelColor=111927&logo=medium&logoColor=white)](https://medium.com/@USERNAME)
+[![Email](https://img.shields.io/badge/Email-Say_hi-00E5FF?style=flat&labelColor=111927&logo=gmail&logoColor=white)](mailto:email@gmail.com)
+[![Hack_The_Box](https://img.shields.io/badge/Hack_The_Box-Profile-9FEF00?style=flat&labelColor=111927&logo=hackthebox&logoColor=white)](HTB_PROFILE_LINK)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-C11111?style=flat&labelColor=111927&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/USERNAME)
+[![AltaySec](https://img.shields.io/badge/AltaySec-Profile-B026FF?style=flat&labelColor=111927)](https://akademi.altaysec.com.tr/u/bad_genious?ref=bad_genious&utm_source=github&utm_medium=rozet)
+ 
+### Bye for now! 👋
+ 
+<p><img src="https://media.giphy.com/media/hcpVSCSwDcKju/giphy.gif" width="540"></p>
+
+<br><br><br><br><br><br><br>
+---
+ 
+## 🎒 Side Quests (old friends, still around)
+
+### 🎮 3D Game Art (my world before cyber security)
+ 
+Yes, like every young gamer, I was once in the gaming world too. Valorant's graphics and character art, and LoL's cinematics pulled me right in.
+ 
+<p><img src="GAME_GIF_1_LINK" width="540"></p>
+Of course, I didn't become a game developer. I became a 3D game artist. And then I learned Blender... Phew... 🔥 That's how I fell in love with colors. It was beautiful, it gave me butterflies... But every good thing comes to an end. Maybe I'll pick it back up as a hobby years from now, but for now: goodbye, baby. ❤️
+ 
+[![ArtStation](https://img.shields.io/badge/ArtStation-Portfolio-13AFF0?style=flat&labelColor=111927&logo=artstation&logoColor=white)](https://www.artstation.com/delicoyun)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat&labelColor=111927&logo=youtube&logoColor=white)](https://www.youtube.com/@delicoyun7487)
+[![itch.io](https://img.shields.io/badge/itch.io-Portfolio-FA5C5C?style=flat&labelColor=111927&logo=itchdotio&logoColor=white)](https://delicoyun.itch.io/)
+ 
+<p><img src="GAME_GIF_2_LINK" width="540"></p>
 
 
 
-
-
-
-
-
-
-
+<!--
  
 ---
  
@@ -189,7 +257,7 @@ And yes, I'm still good at computer games. That part never needed practice.
 
 
 
-<!--
+
 
 
 But let it be.😅 I'm still in development. I know one day I will overcome my software phobia. So I guess... 🤔
