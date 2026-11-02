@@ -116,32 +116,31 @@ I'm also trying to figure out Wireshark, but it's a bit complicated... We're sti
   - ⭐ Pin the important notes to the top, and they stay there.
 <br>
 <img width="556" height="240" alt="neonott" src="https://github.com/user-attachments/assets/ee6984cc-121a-4a7f-bf22-8aa3d981a485" />
-<br><br>
 
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 ## 🎒 Side Quests (old friends, still around)
+
+### 🎮 3D Game Art (my world before cyber security)
  
-### 🎮 Game Design (my world before cyber security)
+Yes, like every young gamer, I was once in the gaming world too. Valorant's graphics and character art, and LoL's cinematics pulled me right in.
  
-Before cyber security, this was the world I wanted to build a career in. Anime worlds, 3D FPS characters, maps and stories, I wanted to create all of it. 🗺️
-Blender and I are still... negotiating. 🫠
-And yes, I'm still good at computer games. That part never needed practice. 🎯
+<img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/3382d876-074c-4180-bc5c-c4243658d0a2" />
+
+
+<br>
+Of course, I didn't become a game developer. I became a 3D game artist. And then I learned Blender... Phew... 🔥 That's how I fell in love with colors. It was beautiful, it gave me butterflies... But every good thing comes to an end. Maybe I'll pick it back up as a hobby years from now, but for now: goodbye, baby. ❤️
  
-<p><img src="https://media.giphy.com/media/l0DAI5cmkj0rYbwgo/giphy.gif" width="540"></p>
-### 🤖 Robotics (Arduino & IoT)
+[![ArtStation](https://img.shields.io/badge/ArtStation-Portfolio-13AFF0?style=flat&labelColor=111927&logo=artstation&logoColor=white)](https://www.artstation.com/delicoyun)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat&labelColor=111927&logo=youtube&logoColor=white)](https://www.youtube.com/@delicoyun7487)
+[![itch.io](https://img.shields.io/badge/itch.io-Portfolio-FA5C5C?style=flat&labelColor=111927&logo=itchdotio&logoColor=white)](https://delicoyun.itch.io/)
  
-Where it all started. Certified training, small projects, and a NodeMCU button I controlled remotely via Blynk. We came to an agreement after all. 🤜🤛
- 
-<p><img src="BOSTON_DYNAMICS_GIF_LINK" width="540"></p>
-Dude, I'd give anything to have this guy's job... 🕺🤖
+<img width="420" height="400" alt="giphy" src="https://github.com/user-attachments/assets/40ded7e3-1e37-4764-8bb5-7907420922b9" />
+
+<br>
  
 ### 🎨 Design
  
@@ -204,25 +203,7 @@ My secret long-term dream. Neuroscience fascinates me, and one day I'd love to t
 
 
 
-## 🎒 Side Quests (old friends, still around)
 
-### 🎮 3D Game Art (my world before cyber security)
- 
-Yes, like every young gamer, I was once in the gaming world too. Valorant's graphics and character art, and LoL's cinematics pulled me right in.
- 
-<img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/3382d876-074c-4180-bc5c-c4243658d0a2" />
-
-
-<br>
-Of course, I didn't become a game developer. I became a 3D game artist. And then I learned Blender... Phew... 🔥 That's how I fell in love with colors. It was beautiful, it gave me butterflies... But every good thing comes to an end. Maybe I'll pick it back up as a hobby years from now, but for now: goodbye, baby. ❤️
- 
-[![ArtStation](https://img.shields.io/badge/ArtStation-Portfolio-13AFF0?style=flat&labelColor=111927&logo=artstation&logoColor=white)](https://www.artstation.com/delicoyun)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat&labelColor=111927&logo=youtube&logoColor=white)](https://www.youtube.com/@delicoyun7487)
-[![itch.io](https://img.shields.io/badge/itch.io-Portfolio-FA5C5C?style=flat&labelColor=111927&logo=itchdotio&logoColor=white)](https://delicoyun.itch.io/)
- 
-<img width="420" height="400" alt="giphy" src="https://github.com/user-attachments/assets/40ded7e3-1e37-4764-8bb5-7907420922b9" />
-
-<br>
 
 
 
