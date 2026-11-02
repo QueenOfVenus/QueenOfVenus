@@ -16,8 +16,6 @@ Good news: we're on speaking terms now! 🤝 It still plays hard to get sometime
 <br>
 
 <img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/00108225-5b58-4fc1-b613-c2370847dab5" />
-<img width="480" height="254" alt="giphy" src="https://github.com/user-attachments/assets/1d61eba0-0a6e-4acb-ae92-f6895292760b" />
-
 
 <br>
 
@@ -39,16 +37,65 @@ Remember when I said I knew nothing but HackerTyper and was just watching *Mr. R
  
 Well... the curiosity didn't go away. It grew up. 😎
 My goal is **Purple Team**: Red Team breaks it, Blue Team defends it, and I want to understand both sides. 🔴🔵 = 🟣
+
+#### 🥋 My training grounds
+ 
+| Platform | What I've done |
+|---|---|
+| 🟩 **Hack The Box** | Level 20 · 🖥️ 1 Machine · 🔍 6 Sherlocks · 🧩 5 Challenges |
+| 🟥 **TryHackMe** | I'm obsessed with OSINT CTFs. 🔎 |
+| 🟦 **LetsDefend** | We've only just met, but I'm sure we'll get along great soon. 🤝 |
+| 🏔️ **AltaySec** | Rank: Operator 🚜 · Moving along the training paths · I even have my own CTF clan! ⚔️ |
+ 
+🔴 **Red side:** Machines and Challenges, where I get to break things *legally*. 😈
+🔵 **Blue side:** Sherlocks and SOC scenarios, where I play detective with logs and leftovers. 🕵️‍♀️
+ 
+#### 💪 Where I feel strongest
+ 
+- 🌍 **OSINT & GeoOSINT:** Show me a photo and I'll start hunting for the street sign. 📸
+- 🧪 **DFIR & SOC scenarios:** Finding out what happened, how it happened and who left the door open.
+
+#### 🌐 Speaking the language of networks
+ 
+I'm taking a CCNA course on Udemy, so I'll be ready for the exam one day. The certificate itself will have to wait, because I'm broke. 🥲
+
+<img width="500" height="500" alt="giphy" src="https://github.com/user-attachments/assets/cf83e9a7-c1c1-4c24-8ec4-b0242e9e54ab" />
+<br>
+ 
+I'm also taking Networking Basics on Cisco NetAcad, and it's so much fun. 👩‍🔧 I practice everything I learn in Cisco Packet Tracer. It's lit! 🔥
+ 
+I'm also trying to figure out Wireshark, but it's a bit complicated... We're still wrestling with each other. 🦈🥊😄
+
+<img width="350" height="452" alt="giphy" src="https://github.com/user-attachments/assets/9f91b8d0-b1e9-486e-8241-21533ce6fd5d" />
+<br>
+<br>
+ 
+#### 📜 Certificates
+ 
+- Introduction to Cyber Security · *Turkish Cyber Security Cluster*
+- Cyber Security Summer Camp: Penetration Testing · *Turkish Cyber Security Cluster*
+- Cisco Packet Tracer · *Cisco Networking Academy*
  
 **What I'm building on the way:**
  
 - 🎓 **Thesis:** Credit card fraud detection with a dual system. One side creates fake fraud, the other side tries to catch it. Basically, I made my own models fight each other. 🥊
 
-<img width="480" height="320" alt="giphy" src="https://github.com/user-attachments/assets/6a5a4d4f-f7e3-45ee-b80d-42a47d73762a" />
+<img width="480" height="254" alt="giphy" src="https://github.com/user-attachments/assets/1d61eba0-0a6e-4acb-ae92-f6895292760b" />
 <br>
 
 - 🖼️ **Conference paper:** Hiding secret data inside images with LSB and the Fibonacci sequence. Yes, a picture can carry a message. 🤫
 - 🔊 **Bana Canlı Oku** *(Read It to Me, Live)*: An AI-based Chrome extension that reads articles aloud, with real intonation, and without murdering English abbreviations. Built because I hate reading long texts. Honest motivation. 🙃
+- 💼 **İşSizsiniz** *(a Turkish pun: read it in one go and it says "You're Unemployed", stress the "Siz" and it says "The Job Is You")*: My neon job-search board, built with Claude. If I have to be unemployed, I'll at least be unemployed in style. 💚🩵💜🩷
+  - ☀️ I say "good morning", it scans new job listings and cyber security news for me.
+  - 📋 Tracks my applications, which CV I sent where, and when to follow up.
+  - 🏢 Keeps notes on hundreds of companies, plus a separate tab just for cyber security firms.
+  - 🎯 Shows a match score for each new listing, so I know where to apply first.
+  - 🌗 Dark and light theme, mobile friendly, and of course a 🔊 **Listen** button. (Old habits.)
+  I shared it with my friends too, because job hunting is more fun together. 😅
+- 🗒️ **Neonot**: My neon sticky-note board, also built with Claude. Because regular yellow post-its were never going to be enough for me. 💅
+  - 📌 Topics are slightly tilted post-its on a board, and every topic can have sub-topics inside it, as deep as my brain goes.
+  - 🎨 Around 80 neon colors in bright, deep and pastel shades, plus a custom color picker. Text color adjusts itself, so every note stays readable.
+  - ⭐ Pin the important notes to the top, and they stay there.
 ---
  
 ## 🎒 Side Quests (old friends, still around)
