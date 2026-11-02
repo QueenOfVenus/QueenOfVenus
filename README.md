@@ -10,13 +10,14 @@ A computer engineer, a software engineering master's student at Atatürk Univers
 
 This was me writing code a few years ago... 😅
 <br>
+<br>
 <img width="497" height="280" alt="giphy" src="https://github.com/user-attachments/assets/c3d0cca1-8f88-4288-9660-9707a4e50ddf" />
 <br>
 
 
 Good news: we're on speaking terms now! 🤝 It still plays hard to get sometimes 🙄 but together with Claude, I've learned how to handle its moods. 😏🤖
 
-<br>
+
 
 <img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/00108225-5b58-4fc1-b613-c2370847dab5" />
 
@@ -36,7 +37,7 @@ But this time, I picked a main quest. 🎯
  
 Remember when I said I knew nothing but HackerTyper and was just watching *Mr. Robot*?
 
-<br>
+
 <img width="536" height="600" alt="giphy" src="https://github.com/user-attachments/assets/e7252766-8f7a-49b5-ba88-ada3d97daf4f" />
 <br>
  
@@ -47,10 +48,10 @@ My goal is **Purple Team**: Red Team breaks it, Blue Team defends it, and I want
  
 | Platform | What I've done |
 |---|---|
-| 🟩 **Hack The Box** | Level 20 · 🖥️ 1 Machine · 🔍 6 Sherlocks · 🧩 5 Challenges<br>[![Starting Point](https://img.shields.io/badge/HTB-Starting_Point_Tier_0-9FEF00?style=flat&labelColor=111927&logo=hackthebox&logoColor=black)](https://labs.hackthebox.com/achievement/badge/88742/117) [![Powering Up](https://img.shields.io/badge/HTB-Powering_Up_%C2%B7_5_Challenges-9FEF00?style=flat&labelColor=111927&logo=hackthebox&logoColor=black)](https://labs.hackthebox.com/achievement/badge/88742/232) [![Investigator](https://img.shields.io/badge/HTB-Investigator_%C2%B7_5_Sherlocks-9FEF00?style=flat&labelColor=111927&logo=hackthebox&logoColor=black)](https://labs.hackthebox.com/achievement/badge/88742/242) |
+| 🟩 **Hack The Box** | Level 20 · 🖥️ 1 Machine · 🔍 6 Sherlocks · 🧩 5 Challenges<br><br>[![Starting Point](https://img.shields.io/badge/HTB-Starting_Point_Tier_0-9FEF00?style=flat&labelColor=111927&logo=hackthebox&logoColor=black)](https://labs.hackthebox.com/achievement/badge/88742/117) [![Powering Up](https://img.shields.io/badge/HTB-Powering_Up_%C2%B7_5_Challenges-9FEF00?style=flat&labelColor=111927&logo=hackthebox&logoColor=black)](https://labs.hackthebox.com/achievement/badge/88742/232) [![Investigator](https://img.shields.io/badge/HTB-Investigator_%C2%B7_5_Sherlocks-9FEF00?style=flat&labelColor=111927&logo=hackthebox&logoColor=black)](https://labs.hackthebox.com/achievement/badge/88742/242) |
 | 🟥 **TryHackMe** | I'm obsessed with OSINT CTFs. 🔎 |
-| 🟦 **LetsDefend** | We've only just met, but I'm sure we'll get along great soon. 🤝<br>[![Network Cable](https://img.shields.io/badge/LetsDefend-Network_Cable-2A7DE1?style=flat&labelColor=111927)](https://app.letsdefend.io/my-rewards/detail/98d33773-b9d8-4864-92f1-55c4785d17c8) |
-| 🏔️ **AltaySec** | Rank: Operator 🚜 · Moving along the training paths · I even have my own CTF clan! ⚔️<br>[![AltaySec Akademi](https://akademi.altaysec.com.tr/rozet/bad_genious.svg)](https://akademi.altaysec.com.tr/u/bad_genious?ref=bad_genious&utm_source=github&utm_medium=rozet) |
+| 🟦 **LetsDefend** | We've only just met, but I'm sure we'll get along great soon. 🤝<br><br>[![Network Cable](https://img.shields.io/badge/LetsDefend-Network_Cable-2A7DE1?style=flat&labelColor=111927)](https://app.letsdefend.io/my-rewards/detail/98d33773-b9d8-4864-92f1-55c4785d17c8) |
+| 🏔️ **AltaySec** | Rank: Operator 🚜 · Moving along the training paths · I even have my own CTF clan! ⚔️<br><br>[![AltaySec Akademi](https://akademi.altaysec.com.tr/rozet/bad_genious.svg)](https://akademi.altaysec.com.tr/u/bad_genious?ref=bad_genious&utm_source=github&utm_medium=rozet) |
  
 🔴 **Red side:** Machines and Challenges, where I get to break things *legally*. 😈
 🔵 **Blue side:** Sherlocks and SOC scenarios, where I play detective with logs and leftovers. 🕵️‍♀️
@@ -63,7 +64,7 @@ My goal is **Purple Team**: Red Team breaks it, Blue Team defends it, and I want
 #### 🌐 Speaking the language of networks
  
 I'm taking a CCNA course on Udemy, so I'll be ready for the exam one day. The certificate itself will have to wait, because I'm broke. 🥲
-<br>
+
 <img width="500" height="500" alt="giphy" src="https://github.com/user-attachments/assets/cf83e9a7-c1c1-4c24-8ec4-b0242e9e54ab" />
 <br>
 
@@ -72,7 +73,6 @@ I'm also taking Networking Basics on Cisco NetAcad, and it's so much fun. 👩�
 I'm also trying to figure out Wireshark, but it's a bit complicated... We're still wrestling with each other. 🦈🥊😄
 
 <img width="350" height="452" alt="giphy" src="https://github.com/user-attachments/assets/9f91b8d0-b1e9-486e-8241-21533ce6fd5d" />
-<br>
 <br>
  
 #### 📜 Certificates
@@ -86,20 +86,21 @@ I'm also trying to figure out Wireshark, but it's a bit complicated... We're sti
 - 🎓 **Thesis:** Credit card fraud detection with a dual system. One side creates fake fraud, the other side tries to catch it. Basically, I made my own models fight each other. 🥊
 <br>
 <img width="540" height="286" alt="giphy" src="https://github.com/user-attachments/assets/1d61eba0-0a6e-4acb-ae92-f6895292760b" />
-<br>
+<br><br>
+
 
 - 🖼️ **Conference paper:** Hiding secret data inside images with LSB and the Fibonacci sequence. Yes, a picture can carry a message. 🤫
 - 🔊 **Bana Canlı Oku** *(Read It to Me, Live)*: An AI-based Chrome extension that reads articles aloud, with real intonation, and without murdering English abbreviations. Built because I hate reading long texts. Honest motivation. 🙃
 <br>
 <img width="540" height="303" alt="giphy" src="https://github.com/user-attachments/assets/2ef6669d-d53a-4e8a-a7b4-db76cff9a6bd" />
-<br>
+<br><br>
 
   
 - 💼 **İşSizsiniz** *(a Turkish pun: read it in one go and it says "You're Unemployed", stress the "Siz" and it says "The Job Is You")*: My neon job-search board, built with Claude. If I have to be unemployed, I'll at least be unemployed in style. 💚🩵💜🩷
   - ☀️ I say "good morning", it scans new job listings and cyber security news for me.
   <br>
   <img width="540" height="406" alt="giphy" src="https://github.com/user-attachments/assets/49b909cd-b2c9-4c88-9893-6111e56c1fb2" />
-  <br>
+  <br><br>
   - 📋 Tracks my applications, which CV I sent where, and when to follow up.
   - 🏢 Keeps notes on hundreds of companies, plus a separate tab just for cyber security firms.
   - 🎯 Shows a match score for each new listing, so I know where to apply first.
@@ -107,7 +108,7 @@ I'm also trying to figure out Wireshark, but it's a bit complicated... We're sti
   I shared it with my friends too, because job hunting is more fun together. 😅
 <br>
 <img width="500" height="300" alt="1102" src="https://github.com/user-attachments/assets/dfb03a17-bbe6-4f4b-bd98-645136fa89d2" />
-<br>
+<br><br>
 
 - 🗒️ **Neonot**: My neon sticky-note board, also built with Claude. Because regular yellow post-its were never going to be enough for me. 💅
   - 📌 Topics are slightly tilted post-its on a board, and every topic can have sub-topics inside it, as deep as my brain goes.
@@ -115,7 +116,7 @@ I'm also trying to figure out Wireshark, but it's a bit complicated... We're sti
   - ⭐ Pin the important notes to the top, and they stay there.
 <br>
 <img width="556" height="240" alt="neonott" src="https://github.com/user-attachments/assets/ee6984cc-121a-4a7f-bf22-8aa3d981a485" />
-<br>
+<br><br>
 
 
 
