@@ -1,4 +1,4 @@
-# Hi everybody 👋😉 (it is for humor purposes)
+# Hi everybody 👋😉 
 ### Allow me to introduce myself... again.
 <br>
 <img width="536" height="400" alt="200" src="https://github.com/user-attachments/assets/d31fab04-705d-40c9-96a3-e3424c006b46" />
