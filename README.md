@@ -174,11 +174,7 @@ My secret long-term dream. Neuroscience fascinates me, and one day I'd love to t
 ### 📫 Find me
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&labelColor=111927&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
-[![Medium](https://img.shields.io/badge/Medium-Read_my_posts-FF2FB9?style=flat&labelColor=111927&logo=medium&logoColor=white)](https://medium.com/@USERNAME)
-[![Email](https://img.shields.io/badge/Email-Say_hi-00E5FF?style=flat&labelColor=111927&logo=gmail&logoColor=white)](mailto:email@gmail.com)
-[![Hack_The_Box](https://img.shields.io/badge/Hack_The_Box-Profile-9FEF00?style=flat&labelColor=111927&logo=hackthebox&logoColor=white)](HTB_PROFILE_LINK)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-C11111?style=flat&labelColor=111927&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/USERNAME)
-[![AltaySec](https://img.shields.io/badge/AltaySec-Profile-B026FF?style=flat&labelColor=111927)](https://akademi.altaysec.com.tr/u/bad_genious?ref=bad_genious&utm_source=github&utm_medium=rozet)
+[![Medium](https://img.shields.io/badge/Medium-Read_my_posts-FF2FB9?style=flat&labelColor=111927&logo=medium&logoColor=white)](https://medium.com/@beyzanuraltinok)
  
 ### Bye for now! 👋
  
@@ -186,26 +182,51 @@ My secret long-term dream. Neuroscience fascinates me, and one day I'd love to t
 
 <br><br><br><br><br><br><br>
 ---
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🎒 Side Quests (old friends, still around)
 
 ### 🎮 3D Game Art (my world before cyber security)
  
 Yes, like every young gamer, I was once in the gaming world too. Valorant's graphics and character art, and LoL's cinematics pulled me right in.
  
-<p><img src="GAME_GIF_1_LINK" width="540"></p>
+<img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/3382d876-074c-4180-bc5c-c4243658d0a2" />
+
+
+<br>
 Of course, I didn't become a game developer. I became a 3D game artist. And then I learned Blender... Phew... 🔥 That's how I fell in love with colors. It was beautiful, it gave me butterflies... But every good thing comes to an end. Maybe I'll pick it back up as a hobby years from now, but for now: goodbye, baby. ❤️
  
 [![ArtStation](https://img.shields.io/badge/ArtStation-Portfolio-13AFF0?style=flat&labelColor=111927&logo=artstation&logoColor=white)](https://www.artstation.com/delicoyun)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat&labelColor=111927&logo=youtube&logoColor=white)](https://www.youtube.com/@delicoyun7487)
 [![itch.io](https://img.shields.io/badge/itch.io-Portfolio-FA5C5C?style=flat&labelColor=111927&logo=itchdotio&logoColor=white)](https://delicoyun.itch.io/)
  
-<p><img src="GAME_GIF_2_LINK" width="540"></p>
+<img width="420" height="400" alt="giphy" src="https://github.com/user-attachments/assets/40ded7e3-1e37-4764-8bb5-7907420922b9" />
+
+<br>
 
 
 
-<!--
- 
+<!-- 
 ---
  
 ## 🎒 Side Quests (old friends, still around)
