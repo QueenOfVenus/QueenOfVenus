@@ -1,17 +1,17 @@
 # Hi everybody 👋😉 (it is for humor purposes)
 ### Allow me to introduce myself... again.
-
-<img width="268" height="200" alt="200" src="https://github.com/user-attachments/assets/d31fab04-705d-40c9-96a3-e3424c006b46" />
-
+<br>
+<img width="536" height="400" alt="200" src="https://github.com/user-attachments/assets/d31fab04-705d-40c9-96a3-e3424c006b46" />
+<br>
 
 ### Beyza...😆
 
 A computer engineer, a software engineering master's student at Atatürk University, and (as you might remember) a former sufferer of BIG SOFTWAREPHOBIA.
 
 This was me writing code a few years ago... 😅
-
+<br>
 <img width="497" height="280" alt="giphy" src="https://github.com/user-attachments/assets/c3d0cca1-8f88-4288-9660-9707a4e50ddf" />
-
+<br>
 
 
 Good news: we're on speaking terms now! 🤝 It still plays hard to get sometimes 🙄 but together with Claude, I've learned how to handle its moods. 😏🤖
@@ -35,9 +35,10 @@ But this time, I picked a main quest. 🎯
 ### 🛡️ Main Quest: Cyber Security
  
 Remember when I said I knew nothing but HackerTyper and was just watching *Mr. Robot*?
- 
-<img width="268" height="300" alt="giphy" src="https://github.com/user-attachments/assets/e7252766-8f7a-49b5-ba88-ada3d97daf4f" />
 
+<br>
+<img width="536" height="600" alt="giphy" src="https://github.com/user-attachments/assets/e7252766-8f7a-49b5-ba88-ada3d97daf4f" />
+<br>
  
 Well... the curiosity didn't go away. It grew up. 😎
 My goal is **Purple Team**: Red Team breaks it, Blue Team defends it, and I want to understand both sides. 🔴🔵 = 🟣
@@ -62,10 +63,10 @@ My goal is **Purple Team**: Red Team breaks it, Blue Team defends it, and I want
 #### 🌐 Speaking the language of networks
  
 I'm taking a CCNA course on Udemy, so I'll be ready for the exam one day. The certificate itself will have to wait, because I'm broke. 🥲
-
+<br>
 <img width="500" height="500" alt="giphy" src="https://github.com/user-attachments/assets/cf83e9a7-c1c1-4c24-8ec4-b0242e9e54ab" />
 <br>
- 
+
 I'm also taking Networking Basics on Cisco NetAcad, and it's so much fun. 👩‍🔧 I practice everything I learn in Cisco Packet Tracer. It's lit! 🔥
  
 I'm also trying to figure out Wireshark, but it's a bit complicated... We're still wrestling with each other. 🦈🥊😄
@@ -83,38 +84,38 @@ I'm also trying to figure out Wireshark, but it's a bit complicated... We're sti
 **What I'm building on the way:**
  
 - 🎓 **Thesis:** Credit card fraud detection with a dual system. One side creates fake fraud, the other side tries to catch it. Basically, I made my own models fight each other. 🥊
-
-<img width="480" height="254" alt="giphy" src="https://github.com/user-attachments/assets/1d61eba0-0a6e-4acb-ae92-f6895292760b" />
+<br>
+<img width="540" height="286" alt="giphy" src="https://github.com/user-attachments/assets/1d61eba0-0a6e-4acb-ae92-f6895292760b" />
 <br>
 
 - 🖼️ **Conference paper:** Hiding secret data inside images with LSB and the Fibonacci sequence. Yes, a picture can carry a message. 🤫
 - 🔊 **Bana Canlı Oku** *(Read It to Me, Live)*: An AI-based Chrome extension that reads articles aloud, with real intonation, and without murdering English abbreviations. Built because I hate reading long texts. Honest motivation. 🙃
-<img width="360" height="202" alt="giphy" src="https://github.com/user-attachments/assets/2ef6669d-d53a-4e8a-a7b4-db76cff9a6bd" />
-
+<br>
+<img width="540" height="303" alt="giphy" src="https://github.com/user-attachments/assets/2ef6669d-d53a-4e8a-a7b4-db76cff9a6bd" />
+<br>
 
   
 - 💼 **İşSizsiniz** *(a Turkish pun: read it in one go and it says "You're Unemployed", stress the "Siz" and it says "The Job Is You")*: My neon job-search board, built with Claude. If I have to be unemployed, I'll at least be unemployed in style. 💚🩵💜🩷
   - ☀️ I say "good morning", it scans new job listings and cyber security news for me.
-  <img width="350" height="263" alt="giphy" src="https://github.com/user-attachments/assets/49b909cd-b2c9-4c88-9893-6111e56c1fb2" />
-
+  <br>
+  <img width="540" height="406" alt="giphy" src="https://github.com/user-attachments/assets/49b909cd-b2c9-4c88-9893-6111e56c1fb2" />
+  <br>
   - 📋 Tracks my applications, which CV I sent where, and when to follow up.
   - 🏢 Keeps notes on hundreds of companies, plus a separate tab just for cyber security firms.
   - 🎯 Shows a match score for each new listing, so I know where to apply first.
   - 🌗 Dark and light theme, mobile friendly, and of course a 🔊 **Listen** button. (Old habits.)
   I shared it with my friends too, because job hunting is more fun together. 😅
-<img width="400" height="240" alt="1102" src="https://github.com/user-attachments/assets/dfb03a17-bbe6-4f4b-bd98-645136fa89d2" />
-
+<br>
+<img width="500" height="300" alt="1102" src="https://github.com/user-attachments/assets/dfb03a17-bbe6-4f4b-bd98-645136fa89d2" />
+<br>
 
 - 🗒️ **Neonot**: My neon sticky-note board, also built with Claude. Because regular yellow post-its were never going to be enough for me. 💅
   - 📌 Topics are slightly tilted post-its on a board, and every topic can have sub-topics inside it, as deep as my brain goes.
   - 🎨 Around 80 neon colors in bright, deep and pastel shades, plus a custom color picker. Text color adjusts itself, so every note stays readable.
   - ⭐ Pin the important notes to the top, and they stay there.
- <img width="556" height="240" alt="neonott" src="https://github.com/user-attachments/assets/ee6984cc-121a-4a7f-bf22-8aa3d981a485" />
-
-
-<a href="https://labs.hackthebox.com/achievement/badge/88742/242">
-  <img src="https://labs.hackthebox.com/achievement/badge/preview/88742/242.png" width="350">
-</a>
+<br>
+<img width="556" height="240" alt="neonott" src="https://github.com/user-attachments/assets/ee6984cc-121a-4a7f-bf22-8aa3d981a485" />
+<br>
 
 
 
@@ -187,7 +188,7 @@ And yes, I'm still good at computer games. That part never needed practice.
 
 
 
-
+<!--
 
 
 But let it be.😅 I'm still in development. I know one day I will overcome my software phobia. So I guess... 🤔
@@ -242,7 +243,7 @@ I don't know anything other than HackerTyper. My aim is not to be Elliot Alderso
 ### Bye for now.!
 
 ![](https://media.giphy.com/media/hcpVSCSwDcKju/giphy.gif)
-<!--
+
 **QueenOfVenus/QueenOfVenus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
