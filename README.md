@@ -1,15 +1,24 @@
 # Hi everybody 👋😉 (it is for humor purposes)
-### Allow me to introduce myself to you.
+### Allow me to introduce myself... again.
 
 ![](https://media3.giphy.com/media/tLQSYnrLCGcKY/giphy.gif)
 
 ### Beyza...😆
 
-Now, I am a computer engineer! But I've a BIG SOFTWAREPHOBIA. 
+A computer engineer, a software engineering master's student at Atatürk University, and (as you might remember) a former sufferer of BIG SOFTWAREPHOBIA.
 
-This is how I am most of the time when it comes to writing code...
+This was me writing code a few years ago... 😅
 
 ![](https://media3.giphy.com/media/ZQBH5pvoyiZSE/200.gif)
+
+Good news: we're on speaking terms now! 🤝 It still plays hard to get sometimes 🙄 but together with Claude, I've learned how to handle its moods. 😏🤖
+
+![](https://giphy.com/gifs/BostonDynamics-dancing-spot-boston-dynamics-TuM6oxvGcWWmQrm1Vt)
+
+Dude, I'd give anything to be in this guy's shoes... 😁
+
+
+
 
 But let it be.😅 I'm still in development. I know one day I will overcome my software phobia. So I guess... 🤔
 
